@@ -23,7 +23,7 @@ Free, open-source DIY tools for open textbooks, guides and courses – as five s
 - **[Open Textbooks and Guides](/open-publishing-space)** – for you if you write or share textbooks and guides
 - **[Open Courses](/open-course-hub)** – for you if you teach or design courses
 - **[Grav 2 for Open Education and Publishing](/grav-2)** – for you if you're choosing a platform
-- **[Docsify for Open Education and Publishing](/docsify)** – for you if you'd rather not set up a web server
+- **[Docsify for Open Education and Publishing](/docsify)** – for you if you'd rather start without a web server, and move to Grav later
 
 ## A working example
 
