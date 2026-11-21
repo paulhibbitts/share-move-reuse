@@ -7,7 +7,7 @@ description: 'Turn any public Markdown file into a styled web page, instantly.'
 A free, open-source web app that turns online Markdown files into styled, responsive web pages – no signup, no install. Named a finalist in the Open Infrastructure category of the 2024 Open Education Awards for Excellence.
 
 - **Instant pages:** paste the address of a Markdown file on GitHub, Codeberg or anywhere public, and it's a web page in seconds
-- **One page or a whole site:** several files become a multi-page site, with a sidebar, Previous/Next and search
+- **One page or a whole site:** several files become a multi-page site, with a sidebar, Previous/Next, the ← → keys and search – and, if you like, a Continue reading link for returning readers
 - **Point-and-click styling:** the Web Page Builder sets fonts, colours and layout – and the choices travel in the page's address, so sharing the link shares the look
 - **Embeds almost anywhere:** Canvas, Moodle, Brightspace, WordPress and more
 - **Rich content:** H5P activities, LaTeX math and Mermaid diagrams

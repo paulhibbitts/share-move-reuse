@@ -4,7 +4,7 @@ published: true
 description: 'When a full site is worth it – and how your Markdown gets there.'
 ---
 
-**When a full site helps:** editing in the browser with an admin panel, a search box across all your guides, Keep My Place for returning readers, or a blog alongside – that's when a free [Grav](https://getgrav.org/?target=_blank) website starter fits better. It needs a PHP web host, but still no database.
+**When a full site helps:** editing in the browser with an admin panel, a search box across all your guides, a full-text and print view of a guide, or a blog alongside – that's when a free [Grav](https://getgrav.org/?target=_blank) website starter fits better. It needs a PHP web host, but still no database.
 
 ```mermaid
 flowchart LR
