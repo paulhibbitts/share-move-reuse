@@ -3,7 +3,7 @@ title: 'Getting Started'
 section_number: '5'
 description: 'Explore the demo and try the converter, with nothing to install – plus the limits to know first.'
 child_type: section-page
-side_box: false
+side_box: '**No access to a web server?** Publish open guides using [Docsify-This](https://docsify-this.net/?target=_blank) and Markdown files – then move them to Grav with the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) when you''re ready.'
 ---
 
 All the starters and converters in this guide are **free and open-source**, and you can explore the demo and try the converter with nothing to install:
@@ -37,6 +37,8 @@ Then set up your own site:
 *Getting Started in Admin 2, on a new Open Publishing Space site*
 
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
+
+**No web server?** Start with Docsify: the [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit?target=_blank) (on GitHub Pages) or [Docsify-This](https://docsify-this.net/?target=_blank) (from any Markdown files online) gives readers the same basics – a guide cover, section cards, Previous/Next, Continue reading and search within the guide. Your guide stays plain Markdown in folders, so it can move to Open Publishing Space later, when you want its full-text and print view, a searchable Guides page or editing in the browser.
 
 **See it moved:** this same guide also runs, with the same content, as an Open Publishing Space guide on the [Quark 2](https://share-move-reuse.hibbittsdesign.org/open-publishing-space?target=_blank) and [classic Quark](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/open-publishing-space?target=_blank) themes, as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-publishing-space?target=_blank), and on Grav Premium Helios as a [course hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/open-publishing-space?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&zoom-images=true&target=_blank).
 
