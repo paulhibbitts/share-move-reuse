@@ -8,7 +8,7 @@ side_box: '**Try it now** – press Tab on your keyboard and a "Skip to content"
 
 Built in, for different kinds of readers:
 
-- **For keyboard users:** a "Skip to content" link, arrow-key Previous/Next, **/** for search, and wide tables reachable with Tab
+- **For keyboard users:** a "Skip to content" link, arrow-key Previous/Next, **/** for search, and wide tables you can reach with Tab
 - **For screen reader users:** one title per page, labelled regions and links, and titled embeds
 - **For everyone:** comfortable line lengths, a sidebar you can hide, light and dark modes, and clean printed pages
 - **For privacy:** content on a site you control, with no third-party tracking built in
