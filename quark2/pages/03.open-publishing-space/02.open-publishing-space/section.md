@@ -6,12 +6,12 @@ child_type: section-page
 side_box: "**See the demo** – [Open Publishing Space with a sample guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank) – and you're looking at one now, as this guide is built with it.\n\n**See this page embedded** – [as it would look in Canvas, Moodle or Brightspace](/open-publishing-space/open-publishing-space?embedded=true&target=_blank)."
 ---
 
-A free, open-source website starter for open textbooks and guides, alongside a blog and other pages, built on the [Grav](https://getgrav.org/?target=_blank) 2 CMS. It's [term]web-first[/term]: the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
+A free, open-source website starter for open textbooks and guides – plus a blog and other pages – built on [Grav](https://getgrav.org/?target=_blank) 2. Each guide is a website first, with print and Markdown versions from the same pages.
 
-- Guides with section cards, reading progress, Learning Objectives, [term]OER[/term] attribution, search and **Keep My Place** (pick up where you left off, even partway down a page)
+- Guides with section cards, reading progress, Learning Objectives, [term]OER[/term] attribution, search and **Keep My Place**
 - Present a guide like slides with the ← and → keys
 - A "This page as Markdown" link on every page – for you to reuse, and anyone else too with an open licence
-- One site can hold several guides, each with a card on a Guides page and its own pages in the menu (like this guide's Topics and Resources) – plus site pages like [About](/about)
+- One site can hold several guides, plus site pages like [About](/about)
 - Diagrams and math written as plain text, with the free [Mermaid](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin) and [LaTeX Math](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin) plugins – like $E = mc^2$, or this diagram:
 
 ```mermaid
