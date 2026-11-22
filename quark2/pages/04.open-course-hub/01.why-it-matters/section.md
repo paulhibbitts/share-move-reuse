@@ -2,7 +2,7 @@
 title: 'Why It Matters'
 section_number: '1'
 description: 'Plain Markdown keeps open course materials portable, under your control, and easy for anyone to reuse.'
-learning_objectives: "- **Share:** see how one set of course pages works on any device, inside your LMS and beyond it\n- **Move:** see how plain Markdown keeps a course open to adapt or self-host beyond your LMS, on a site you control\n- **Reuse:** get the Markdown behind any page, with no access to the source files needed"
+learning_objectives: "- **Share:** see course pages work on any device, in your LMS and beyond\n- **Move:** keep a course open to adapt or self-host, with plain Markdown\n- **Reuse:** get the Markdown behind any page, no source files needed"
 child_type: section-page
 side_box: '**See the Markdown behind this page** – [view it now](/open-course-hub/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---

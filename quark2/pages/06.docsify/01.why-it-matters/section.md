@@ -2,7 +2,7 @@
 title: 'Why It Matters'
 section_number: '1'
 description: 'Your Markdown on the web, with no web server to set up or look after.'
-learning_objectives: "- Understand how Docsify shows Markdown as web pages, with no web server to set up\n- Choose between Docsify-This and a Docsify Starter Kit\n- Know when a full Grav site is worth the move"
+learning_objectives: "- See how Docsify shows Markdown as web pages, with no web server\n- Choose between Docsify-This and a Docsify Starter Kit\n- Know when a full Grav site is worth the move"
 child_type: section-page
 side_box: '**Try it now** – paste the address of any public Markdown file into [Docsify-This](https://docsify-this.net/?target=_blank) and see it as a web page.'
 ---

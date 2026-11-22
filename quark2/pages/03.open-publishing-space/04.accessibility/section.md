@@ -15,4 +15,6 @@ Built in, for different kinds of readers:
 
 Embeds such as YouTube videos bring their own tracking, and Keep My Place stays in each reader's own browser.
 
+Screen readers also hear the current section on guide pages.
+
 Accessibility also depends on the content itself – headings, alt text and link text are up to the author (see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/?target=_blank)).
