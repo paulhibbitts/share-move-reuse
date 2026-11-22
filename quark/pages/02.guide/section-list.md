@@ -35,6 +35,8 @@ Many platforms can make textbooks and courses open for their readers and learner
 
 In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
 
+===
+
 The guide is built with one of them, Open Publishing Space, so many of the features it describes are working on the pages you're reading.
 
 > [!TIP]

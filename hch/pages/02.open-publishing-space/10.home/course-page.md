@@ -11,7 +11,7 @@ navigation:
 
 *Paul Hibbitts*
 
-Open textbooks and guides are meant to be reused and remixed, but they often live inside a single platform – which can make them harder to adapt or self-host elsewhere, even for their own authors.
+Open textbooks and guides are meant to be reused, but they often live inside a single platform – harder to adapt or self-host elsewhere, even for their own authors.
 
 This short course introduces Open Publishing Space, a free, open-source website starter for web-first open textbooks and guides, alongside a blog and other pages – plus a free converter that brings in a Pressbooks book.
 

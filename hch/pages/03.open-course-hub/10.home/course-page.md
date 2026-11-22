@@ -11,7 +11,7 @@ navigation:
 
 *Paul Hibbitts*
 
-Open course materials are meant to be shared and reused, but they often live inside an LMS – which can make them harder to share beyond enrolled students, reuse next term or move elsewhere, even for the instructors who made them.
+Open course materials are meant to be shared and reused, but they often live inside an LMS – harder to share beyond enrolled students, reuse next term or move elsewhere, even for the instructors who made them.
 
 This short course introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
 
