@@ -3,7 +3,7 @@ title: 'Accessibility and Privacy'
 section_number: '5'
 description: 'Keyboard, screen reader and reading comfort features, built in – with content and learner data on a site you control.'
 child_type: section-page
-side_box: '**See it in action:** press Tab on your keyboard – a "Skip to content" link appears at the top, letting keyboard users jump past any navigational menus to the page itself (in Safari, press Option+Tab).'
+side_box: '**See it in action:** press Tab on your keyboard – a "Skip to content" link should appear at the top, letting keyboard users jump past any navigational menus to the page itself (in Safari, press Option+Tab).'
 ---
 
 Built in, for different kinds of learners:
