@@ -31,9 +31,9 @@ Then set up your own site:
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Course is ready to start your own from
 
-![The Getting Started page in Admin 2's sidebar, welcoming you to Open Course Space with how editing works, how the home page works, and numbered steps with links to the settings and pages they mention](open-course-space-getting-started.webp)
+![The Syllabus page of a course open in Admin 2's page editor, with its text below in plain Markdown, such as headings, an italic line and a bulleted list, beside the page's settings](open-course-space-getting-started.webp)
 
-*Getting Started in Admin 2, on a new Open Course Space site*
+*Editing a course page in Admin 2 – plain Markdown, right in the browser*
 
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
