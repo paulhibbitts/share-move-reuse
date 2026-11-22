@@ -30,15 +30,15 @@ hide_from_menu: true
 side_box: '**Reuse this guide** – it''s CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](/open-course-hub/llms-full.txt?target=_blank).'
 ---
 
-Open course materials are meant to be shared and reused, but they often live inside an LMS – which can make them harder to share beyond enrolled students, reuse next term or move elsewhere, even for the instructors who made them.
+Open course materials are meant to be shared and reused, but they often live inside an LMS – harder to share beyond enrolled students, reuse next term or move elsewhere, even for the instructors who made them.
 
 This short guide introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
 
 In three words: **share** course pages designed for every learner, **move** your materials wherever you teach, and **reuse** your Markdown, term after term.
 
-This guide is built with Open Course Space's twin, Open Publishing Space – both use the same theme and plain Markdown approach. Want to see it as a course? Here's [this guide in Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-hub/home?target=_blank), with the same content.
-
 ===
+
+This guide is built with Open Course Space's twin, Open Publishing Space – both use the same theme and plain Markdown approach. Want to see it as a course? Here's [this guide in Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-hub/home?target=_blank), with the same content.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.

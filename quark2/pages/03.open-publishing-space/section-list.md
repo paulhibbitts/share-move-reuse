@@ -30,15 +30,15 @@ hide_from_menu: true
 side_box: '**Reuse this guide** – it''s CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](/open-publishing-space/llms-full.txt?target=_blank).'
 ---
 
-Open textbooks and guides are meant to be reused and remixed, but they often live inside a single platform – which can make them harder to adapt or self-host elsewhere, even for their own authors.
+Open textbooks and guides are meant to be reused, but they often live inside a single platform – harder to adapt or self-host elsewhere, even for their own authors.
 
 This short guide introduces Open Publishing Space, a free, open-source website starter for web-first open textbooks and guides, alongside a blog and other pages – plus a free converter that brings in a Pressbooks book.
 
 In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
 
-The guide is built with Open Publishing Space, so many of the features it describes are working on the pages you're reading.
-
 ===
+
+The guide is built with Open Publishing Space, so many of the features it describes are working on the pages you're reading.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
