@@ -6,14 +6,16 @@ description: 'Turn any public Markdown file into a styled web page, instantly.'
 
 # Docsify-This
 
-A free, open-source web app that turns online Markdown files into styled, responsive web pages – no signup, no install. Named a finalist in the Open Infrastructure category of the 2024 Open Education Awards for Excellence.
+A free, open-source web app that turns online Markdown files into styled, responsive web pages – no signup, no install.
 
-- **Instant pages:** paste the address of a Markdown file on GitHub, Codeberg or anywhere public, and it's a web page in seconds
-- **One page or a whole site:** several files become a multi-page site, with a sidebar, Previous/Next, the ← → keys and search – and, if you like, a Continue reading link for returning readers
-- **Point-and-click styling:** the Web Page Builder sets fonts, colours and layout – and the choices travel in the page's address, so sharing the link shares the look
+- **Instant pages:** paste the address of any public Markdown file, such as one on GitHub, and it's a web page in seconds
+- **One page or a whole site:** several files become a site with a sidebar, Previous/Next, the ← → keys and search
+- **Point-and-click styling:** the Web Page Builder sets fonts, colours and layout, saved in the page's address
 - **Embeds almost anywhere:** Canvas, Moodle, Brightspace, WordPress and more
 - **Rich content:** H5P activities, LaTeX math and Mermaid diagrams
 - **Edit in place:** change the Markdown file, and the page updates shortly after
+
+Named a finalist in the Open Infrastructure category of the 2024 Open Education Awards for Excellence.
 
 ![The Docsify-This Web Page Builder, with a field for a Markdown file's address, a green Publish as a Web Page button and three page layouts: Content Only, Table of Contents and Docsify Sidebar](docsify-this-builder.webp)
 

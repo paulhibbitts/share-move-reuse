@@ -10,7 +10,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 - **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early preview)
 - **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)
-- **"No web server? Start with Docsify"** → [Docsify-This](https://docsify-this.net/) or a [Docsify Starter Kit](https://hibbittsdesign.org/docsify-starter-kits.html) gives readers a guide or course site with section cards, Previous/Next and Continue reading – then move it to a full Grav site with the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready – see [courses on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space&zoom-images=true&keep-my-place=true), or the [Docsify for Open Education and Publishing](/docsify) guide
+- **"No web server? Start with Docsify"** → [Docsify-This](https://docsify-this.net/) or a [Docsify Starter Kit](https://hibbittsdesign.org/docsify-starter-kits.html), then the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready for a full site – see the [Docsify](/docsify) guide
 - **"I want to share a textbook or guide"** → its twin, Open Publishing Space – see the [Open Textbooks and Guides](/open-publishing-space) guide
 
 [hideifembedded]
