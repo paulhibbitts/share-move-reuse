@@ -9,7 +9,7 @@ side_box: false
 All the starters and converters in this guide are **free and open-source**:
 
 - **"I want to share a textbook or guide"** → Open Publishing Space: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
-- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early preview)
+- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://getgrav.org/downloads/skeletons#open-course-space-site) (an early preview)
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://grav-pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://grav-common-cartridge-converter.hibbittsdesign.org/) Converter
 - **"No web server? Start with Docsify"** → [Docsify-This](https://docsify-this.net/) or a [Docsify Starter Kit](https://hibbittsdesign.org/docsify-starter-kits.html), then the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready for a full site – see the [Docsify](/docsify) guide
 
@@ -26,7 +26,7 @@ All the starters and converters in this guide are **free and open-source**:
 
 Then set up your own site:
 
-1. **Download** a [term name="Starter skeleton"]starter skeleton[/term]: Open Publishing Space from [getgrav.org](https://getgrav.org/downloads/skeletons?target=_blank), or [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest?target=_blank) from GitHub (an early preview)
+1. **Download** a [term name="Starter skeleton"]starter skeleton[/term]: [Open Publishing Space](https://getgrav.org/downloads/skeletons?target=_blank#open-publishing-space-site) or [Open Course Space](https://getgrav.org/downloads/skeletons?target=_blank#open-course-space-site) (an early preview), both from getgrav.org
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – each starter has a sample guide or course to start your own from
 
