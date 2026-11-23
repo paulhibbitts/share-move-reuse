@@ -59,9 +59,7 @@ Every topic in the guide, from A to Z.
 ## O
 
 - [On this page box on phones](/open-course-hub/open-course-hub)
-- [Open Course Hub 2](/open-course-hub/open-multicourse-hub)
 - [Open Course Space](/open-course-hub/open-course-hub)
-- [Open MultiCourse Hub 2](/open-course-hub/open-multicourse-hub)
 
 ## P
 

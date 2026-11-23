@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started'
-section_number: '6'
+section_number: '5'
 description: 'Explore the demos and try the converter, with nothing to install – plus the limits to know first.'
 child_type: section-page
 side_box: '**No access to a web server?** Publish open courses using [Docsify-This](https://docsify-this.net/?target=_blank) and Markdown files, like [this example courses site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-courses-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&dark-mode=auto&name=Open%20Course%20Space%20Courses&hide-credits=true&pagination=true&searchbox=true&keep-my-place=true&target=_blank), then move them to Grav with the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) when you''re ready.'
