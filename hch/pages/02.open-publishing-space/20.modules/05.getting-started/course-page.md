@@ -2,7 +2,7 @@
 title: 'Getting Started'
 published: true
 description: 'Explore the demo and try the converter, with nothing to install – plus the limits to know first.'
-side_box: '**No access to a web server?** Publish open guides using [Docsify-This](https://docsify-this.net/?target=_blank) and Markdown files, like [this same guide on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&sticky-pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&zoom-images=true&keep-my-place=true&target=_blank#/open-publishing-space/README), then move them to Grav with the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) when you''re ready.'
+side_box: '**No access to a web server?** Publish open guides using [Docsify-This](https://docsify-this.net/?target=_blank) and Markdown files, like [this same guide on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&sticky-pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&zoom-images=true&keep-my-place=true&edit-link=https://github.com/paulhibbitts/docsify-this-share-move-reuse-site&edit-link-text=Source%20Markdown%20Files&edit-link-emoji=:file_folder:&target=_blank#/open-publishing-space/README), then move them to Grav with the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) when you''re ready.'
 ---
 
 # Getting Started

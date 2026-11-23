@@ -7,7 +7,7 @@ Links for going further with Open Course Space, and with Markdown itself.
 
 ## The Projects
 
-- **Open Course Space** – [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-course-space)
+- **Open Course Space** – [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://getgrav.org/downloads/skeletons#open-course-space-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-course-space)
 - **Common Cartridge Converter** – [convert a course](https://grav-common-cartridge-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
 - **Grav Docsify Bridge** – [move a course to or from Docsify](https://grav-docsify-bridge.hibbittsdesign.org/)
 
