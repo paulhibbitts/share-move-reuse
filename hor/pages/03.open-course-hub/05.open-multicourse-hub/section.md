@@ -1,6 +1,6 @@
 ---
 title: 'Open Course Hub and MultiCourse Hub'
-section_number: '3'
+section_number: '5'
 description: 'The earlier course starters – still available, including for Grav 1.7 – and how their courses move to Open Course Space.'
 child_type: section-page
 ---

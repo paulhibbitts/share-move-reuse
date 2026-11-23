@@ -1,6 +1,6 @@
 ---
 title: 'From Your LMS'
-section_number: '4'
+section_number: '3'
 description: 'A free converter turns an existing LMS course into Markdown pages for your course site.'
 child_type: section-page
 side_box: "**See a converted course** – [an LMS course in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/?target=_blank), converted with no revisions."
