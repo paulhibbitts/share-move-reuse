@@ -13,8 +13,6 @@ Open textbooks and guides are meant to be reused, but they often live inside a s
 
 This short course introduces Open Publishing Space, a free, open-source website starter for web-first open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/?target=_blank) that brings in a Pressbooks book.
 
-In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
-
 This version is a course site, built with Open MultiCourse Hub, so the course menu, module list and header image you're using are its features at work – the same Markdown, moved from [the original guide](https://share-move-reuse.hibbittsdesign.org/open-publishing-space?target=_blank), built with Open Publishing Space.
 
 > [!TIP]

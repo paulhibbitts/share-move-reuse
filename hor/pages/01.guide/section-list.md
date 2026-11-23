@@ -31,8 +31,6 @@ side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativec
 
 Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
 
-In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
-
 Also in this guide: [Topics](/guide/topics) · [Resources](/guide/resources) · [Glossary](/guide/glossary)
 
 ===

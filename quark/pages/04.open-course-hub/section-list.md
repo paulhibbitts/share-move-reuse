@@ -34,8 +34,6 @@ Open course materials are meant to be shared and reused, but they often live ins
 
 This short guide introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
 
-In three words: **share** course pages designed for every learner, **move** your materials wherever you teach, and **reuse** your Markdown, term after term.
-
 ===
 
 This guide is built with Open Course Space's twin, Open Publishing Space – both use the same theme and plain Markdown approach.

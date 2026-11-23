@@ -15,8 +15,6 @@ Open textbooks and guides are meant to be reused, but they often live inside a s
 
 This short course introduces Open Publishing Space, a free, open-source website starter for web-first open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/?target=_blank) that brings in a Pressbooks book.
 
-In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
-
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 

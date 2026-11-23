@@ -15,8 +15,6 @@ Open course materials are meant to be shared and reused, but they often live ins
 
 This short course introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
 
-In three words: **share** course pages designed for every learner, **move** your materials wherever you teach, and **reuse** your Markdown, term after term.
-
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
