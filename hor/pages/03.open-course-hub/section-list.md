@@ -35,7 +35,7 @@ This short guide introduces Open Course Space, a free, open-source website start
 
 In three words: **share** course pages designed for every learner, **move** your materials wherever you teach, and **reuse** your Markdown, term after term.
 
-Also in this guide: [Topics](/open-course-hub/topics) · [Resources](/open-course-hub/resources)
+Also in this guide: [Topics](/open-course-hub/topics) · [Resources](/open-course-hub/resources) · [Glossary](/open-course-hub/glossary)
 
 ===
 

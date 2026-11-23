@@ -17,6 +17,8 @@ glossary:
     definition: 'A book publishing platform built on WordPress, widely used for open textbooks.'
   - term: Shortcode
     definition: 'A short tag in square brackets that Grav turns into a box, an embed or another feature when it shows a page.'
+  - term: 'Starter skeleton'
+    definition: 'A ready-to-upload Grav download: Grav 2, a theme and sample content, so a new site starts from a working example.'
 ---
 
 Terms used in this guide. In the guide, terms with a dotted underline show their definition when you hover over or tap them.
