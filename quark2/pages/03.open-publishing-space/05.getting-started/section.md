@@ -28,7 +28,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 Then set up your own site:
 
-1. **Download** a starter skeleton from [getgrav.org](https://getgrav.org/downloads/skeletons?target=_blank)
+1. **Download** a [term name="Starter skeleton"]starter skeleton[/term] from [getgrav.org](https://getgrav.org/downloads/skeletons?target=_blank)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Guide is ready to start your own from
 
@@ -43,7 +43,7 @@ Then set up your own site:
 **See it moved:** this same guide also runs, with the same content, on [the classic Quark theme](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/open-publishing-space?target=_blank), as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-publishing-space?target=_blank), and on Grav Premium Helios as an [open reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/open-publishing-space?target=_blank) and a [course hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/open-publishing-space?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&sticky-pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&zoom-images=true&keep-my-place=true&target=_blank).
 
 > [!IMPORTANT]
-> **Good to know:** this web-first approach keeps things simple, but there's no built-in ebook generation (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a [term]PHP[/term] web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) turns your guides into a Docsify-This site, with no web server needed.
+> **Good to know:** this web-first approach keeps things simple, but there's no built-in ebook generation (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a [term]PHP[/term] web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are [term name="Shortcode"]shortcodes[/term] that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) turns your guides into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed book used as an example, for sharing their work in the open 🙏🏻
 

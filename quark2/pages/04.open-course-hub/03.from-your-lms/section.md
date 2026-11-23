@@ -8,7 +8,7 @@ side_box: '**See a converted course** – [an LMS course in Open Course Space](h
 
 Already have a course in your LMS? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 
-- **[Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard, and download its modules, ready for Open Course Space
+- **[Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a [term]Common Cartridge[/term] file, and download its modules, ready for Open Course Space
 
 Table: What carries over from an LMS course
 
@@ -22,7 +22,7 @@ Table: What carries over from an LMS course
 | Web links and YouTube videos | Carried over – YouTube videos embedded |
 | Vimeo videos, Google Slides and H5P activities | Links to the original, ready to embed |
 | Quizzes and discussions | Left out – they stay in your LMS, and the conversion report lists them |
-| LTI tools | A note on the module page, pointing to the original course |
+| [term]LTI[/term] tools | A note on the module page, pointing to the original course |
 
 ![A module from an LMS course after conversion to Open Course Space: the module's introduction, a card for each of its three assignments, and a sidebar with a search box and the course's modules](open-course-space-converted-module.webp)
 

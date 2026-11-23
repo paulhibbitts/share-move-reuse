@@ -11,6 +11,10 @@ glossary:
     definition: 'The programming language Grav runs on. Most web hosts include it.'
   - term: Pressbooks
     definition: 'A book publishing platform built on WordPress, widely used for open textbooks.'
+  - term: Shortcode
+    definition: 'A short tag in square brackets that Grav turns into a box, an embed or another feature when it shows a page.'
+  - term: 'Starter skeleton'
+    definition: 'A ready-to-upload Grav download: Grav 2, a theme and sample content, so a new site starts from a working example.'
   - term: Web-first
     definition: 'Published first as web pages, with the website as the main edition – print and Markdown versions come from the same pages.'
 ---
