@@ -4,7 +4,7 @@ description: 'An open course site organized by modules – one course or many �
 side_box: "**See the demo** – [Open Course Space with three sample courses](https://demo.hibbittsdesign.org/grav-open-course-space/courses?target=_blank) – and you're looking at one now, as this site is built with it."
 ---
 
-Its twin, for **courses**: a free, open-source course site organized by modules – one course or many, in a single site.
+Open Publishing Space's twin, for **courses**: a free, open-source website starter for open courses organized by modules – one course or many, in a single site.
 
 - A module list beside every module page, with Previous and Next
 - Home page reminders that link to this week's and next week's modules
