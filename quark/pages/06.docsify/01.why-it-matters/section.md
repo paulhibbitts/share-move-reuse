@@ -21,7 +21,7 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 - **Share:** pages work on any device and embed in an LMS
 - **Move:** the same files go to a full Grav site, and back again, with a free [bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank)
-- **Reuse:** the Markdown files are the source – yours to move and adapt, and anyone's to reuse if you add an open licence
+- **Reuse:** the Markdown files are the source – yours to move and adapt, and anyone's to reuse if you add an open licence. On GitHub, readers can even browse a guide's files directly, with its links between pages working
 
 **Honestly:** this is the lightest way to publish, not the most capable – there's no admin panel and no built-in editor. Part 4 covers when a full Grav site is worth it.
 
