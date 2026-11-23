@@ -33,7 +33,7 @@ Many platforms can make textbooks and courses open for their readers and learner
 
 In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
 
-Also in this guide: [Topics](/guide/topics) · [Resources](/guide/resources)
+Also in this guide: [Topics](/guide/topics) · [Resources](/guide/resources) · [Glossary](/guide/glossary)
 
 ===
 

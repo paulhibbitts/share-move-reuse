@@ -35,7 +35,7 @@ This short guide introduces Open Publishing Space, a free, open-source website s
 
 In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
 
-Also in this guide: [Topics](/open-publishing-space/topics) · [Resources](/open-publishing-space/resources)
+Also in this guide: [Topics](/open-publishing-space/topics) · [Resources](/open-publishing-space/resources) · [Glossary](/open-publishing-space/glossary)
 
 ===
 

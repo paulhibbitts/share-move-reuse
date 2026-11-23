@@ -1,6 +1,6 @@
 ---
 title: Glossary
-numbered: false
+menu_order: 3
 description: 'Terms used in this guide, from CC BY 4.0 to shortcodes.'
 glossary:
   - term: 'CC BY 4.0'
