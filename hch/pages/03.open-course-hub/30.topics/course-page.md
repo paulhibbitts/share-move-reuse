@@ -62,9 +62,7 @@ Every topic in the course, from A to Z.
 ## O
 
 - [On this page box on phones](/open-course-hub/modules/open-course-hub)
-- [Open Course Hub 2](/open-course-hub/modules/open-multicourse-hub)
 - [Open Course Space](/open-course-hub/modules/open-course-hub)
-- [Open MultiCourse Hub 2](/open-course-hub/modules/open-multicourse-hub)
 
 ## P
 
