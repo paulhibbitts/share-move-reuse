@@ -1,6 +1,6 @@
 ---
 title: 'Accessibility and Privacy'
-description: 'Keyboard, screen reader and reading comfort features, built in.'
+description: 'Keyboard, screen reader and reading comfort features, built in – with content and reader data on a site you control.'
 side_box: '**Try it now** – press Tab on your keyboard and a "Skip to content" link should appear at the top, letting keyboard users jump past the menus to the page itself (in Safari, press Option+Tab).'
 ---
 
