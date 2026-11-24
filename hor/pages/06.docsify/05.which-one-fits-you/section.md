@@ -26,6 +26,6 @@ Everything in this guide is **free and open-source**:
 > [!IMPORTANT]
 > **Good to know:** your Markdown needs a public home, such as GitHub or Codeberg; there's no admin panel, so pages are edited on GitHub or in any text editor; search covers the pages in the current sidebar; pages load Docsify and its plugins from public services such as jsDelivr, so readers' browsers contact them too; there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser); a course home page doesn't update "This Week" by date the way Open Course Space does, so you edit it as the term goes on; and colleagues new to Markdown may need a little help to start.
 
-**Share this guide:** [share-move-reuse.hibbittsdesign.org/docsify](https://share-move-reuse.hibbittsdesign.org/docsify) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank), so you can copy it, adapt it and share it, with credit.
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/docsify](https://share-move-reuse.hibbittsdesign.org/docsify) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank), so you can copy it, adapt it and share it, with credit, or [get it all as one Markdown file](/docsify/llms-full.txt?target=_blank).
 
 Questions or ideas? [Get in touch](https://hibbittsdesign.org/contact.html) – Paul Hibbitts, [hibbittsdesign.org](https://hibbittsdesign.org/)
