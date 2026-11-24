@@ -21,7 +21,7 @@ Free, open-source templates that turn Docsify into a ready-to-run site – hoste
 
 *An open guide with picture cards, from the [Open Publishing Kit's guide demo](https://hibbitts-design.github.io/demo-docsify-open-publishing-starter-kit-guide/#/?target=_blank)*
 
-**What you get:** your own address and full CSS control, a tab title for each page, a Continue reading link on the home page, an optional "Edit this Page" link for open authoring, LMS-ready embedding, and changes that go live shortly after you commit them – with no build step or pipeline to maintain.
+**What you get:** your own address and full CSS control, a tab title for each page, a Continue reading link on the home page, an optional "Edit this Page" link for open authoring, LMS-ready embedding, ready-made variations such as dark mode or your institution's colours (each a template of its own), and changes that go live shortly after you commit them – with no build step or pipeline to maintain.
 
 **Moving from Docsify-This:** a site you started with Docsify-This moves to a Starter Kit as it is – copy your Markdown files into the kit's repository, and they become your own hosted site, with your own address and styling.
 
