@@ -19,7 +19,7 @@ Free, open-source templates that turn Docsify into a ready-to-run site – hoste
 
 ![The Open Publishing Kit demo: the front page of the guide Open Education Essentials, with a cover photo of an open sign, a Start Reading button and a card for each section](docsify-open-publishing-kit.webp)
 
-*An open guide, from the Open Publishing Kit demo*
+*An open guide with picture cards, from the [Open Publishing Kit's guide demo](https://hibbitts-design.github.io/demo-docsify-open-publishing-starter-kit-guide/#/?target=_blank)*
 
 **What you get:** your own address and full CSS control, a tab title for each page, a Continue reading link on the home page, an optional "Edit this Page" link for open authoring, LMS-ready embedding, and changes that go live shortly after you commit them – with no build step or pipeline to maintain.
 

@@ -12,7 +12,7 @@ Links for going further with Docsify, the tools built on it, and Markdown itself
 
 ## Docsify-This and the Starter Kits
 
-- **Docsify-This** – [try it](https://docsify-this.net/) · [GitHub](https://github.com/hibbitts-design/docsify-this) · templates for a [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site), a [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) and a [Courses Site](https://github.com/hibbitts-design/docsify-this-courses-site)
+- **Docsify-This** – [try it](https://docsify-this.net/) · [GitHub](https://github.com/hibbitts-design/docsify-this) · templates for a [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) (also [with image cards](https://github.com/hibbitts-design/docsify-this-guide-site-image-cards)), a [Multiple Guides Site](https://github.com/hibbitts-design/docsify-this-multiple-guides-site), a [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) and a [Courses Site](https://github.com/hibbitts-design/docsify-this-courses-site)
 - **Docsify Starter Kits** – [overview](https://hibbittsdesign.org/docsify-starter-kits.html) · [Open Course Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) · [Open Courses Kit](https://github.com/hibbitts-design/docsify-open-courses-starter-kit) · [Open Publishing Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
 - **The converters and bridge** – [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) · [Pressbooks](https://grav-pressbooks-converter.hibbittsdesign.org/)
 - [Docsify](https://docsify.js.org/) – the free, open-source project they're built on
