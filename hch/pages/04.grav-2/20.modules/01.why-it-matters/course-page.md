@@ -12,7 +12,7 @@ side_box: '**See the Markdown behind this page** – [view it now](/grav-2/modul
 
 # Why It Matters
 
-**Open both ways:** content that's open for readers often stays inside its platform for its authors – harder to edit elsewhere, move or keep. What if the platform were open too?
+**Open both ways:** open content is meant to be retained, reused, revised, remixed and redistributed – [the 5Rs](https://opencontent.org/definition/?target=_blank) – by its authors as well as its readers. What if the platform were open too?
 
 [definition title="The DIY answer: plain Markdown"]
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page on a free site you control.
