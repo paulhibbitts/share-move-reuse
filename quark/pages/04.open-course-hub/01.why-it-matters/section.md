@@ -7,7 +7,7 @@ child_type: section-page
 side_box: '**See the Markdown behind this page** – [view it now](/open-course-hub/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 
-**Open beyond the LMS:** course materials often stay inside an LMS – visible only to enrolled students, and harder to reuse next term, share with colleagues or move to another platform. What if every page stayed open and portable?
+**Open beyond the LMS:** course pages outside the LMS can be read by anyone, linked from any course, reused next term and shared with colleagues – while the LMS keeps what belongs there, such as grades. What if every page stayed open and portable?
 
 [definition title="The DIY answer: plain Markdown"]
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page in Markdown, on a free site you control.
