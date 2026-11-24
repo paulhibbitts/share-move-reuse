@@ -31,3 +31,5 @@ Table: What carries over from a Pressbooks book
 
 Example (a raw conversion, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/)
 
+**Readable on GitHub or Codeberg too:** move a converted book to Docsify with the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/), and its pages, with working links between them, can be read right in its repository – [see the UDL book on GitHub](https://github.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/blob/main/home.md)
+
