@@ -28,3 +28,5 @@ Table: What carries over from an LMS course
 
 Example (a raw conversion, with no revisions or fine-tuning): [LMS course content in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/)
 
+**Prefer Docsify?** Choose Docsify-This or a Starter Kit as the converter's destination, for a course you can share with no web server to look after – [see Digital Animation on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-course-space-anim8-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&dark-mode=auto&name=Digital%20Animation&zoom-images=true&target=_blank)
+
