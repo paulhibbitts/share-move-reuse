@@ -1,0 +1,14 @@
+---
+title: 'Open Courses'
+course_list_title: 'Open Courses'
+published: true
+visible: false
+description: 'A short course on Open Course Space, for open courses organized by modules – one course or many – plus a free Common Cartridge Converter.'
+hide_from_course_list: false
+course_home: home
+redirect: '/open-courses/home'
+image: bicycle-yellow-wall.jpg
+instructor: 'Paul Hibbitts'
+navbar_bg_color: '#b8901c'
+side_box: '**Reuse these materials** – they''re licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy them, adapt them and share them, with credit.'
+---

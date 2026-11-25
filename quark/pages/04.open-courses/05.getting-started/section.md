@@ -1,0 +1,48 @@
+---
+title: 'Getting Started'
+section_number: '5'
+description: 'Explore the demos and try the converter, with nothing to install – plus the limits to know first.'
+child_type: section-page
+side_box: '**No access to a web server?** Publish open courses using [Docsify-This](https://docsify-this.net/?target=_blank) and Markdown files, like [this example courses site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-courses-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&dark-mode=auto&name=Open%20Course%20Space%20Courses&hide-credits=true&pagination=true&searchbox=true&keep-my-place=true&edit-link=https://github.com/hibbitts-design/docsify-this-courses-site/blob/main/home.md&edit-link-text=View%20Source%20Markdown%20File&edit-link-emoji=:page_facing_up:&target=_blank), then move them to Grav with the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) when you''re ready.'
+---
+
+All the starters and converters in this guide are **free and open-source**, and you can explore the demos and try the converter with nothing to install:
+
+- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://getgrav.org/downloads/skeletons#open-course-space-site) (an early preview)
+- **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)
+- **"No web server? Start with Docsify"** → [Docsify-This](https://docsify-this.net/) or a [Docsify Starter Kit](https://hibbittsdesign.org/docsify-starter-kits.html), then the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready for a full site – see the [Docsify](/docsify) guide
+- **"I want to share a textbook or guide"** → its twin, Open Publishing Space – see the [Open Textbooks and Guides](/open-publishing-space) guide
+
+[hideifembedded]
+
+**Explore it in 5 minutes:**
+
+1. **Add** `.md` to this page's address to see its Markdown
+2. **Press** ← and → to move through this guide, like slides
+3. **Add** `?embedded=true` to this page's address to see it as it would appear in your LMS
+4. **Sign in** to the [read-only Admin 2 demo](https://try.hibbittsdesign.org/grav-skeleton-open-course-space/admin?target=_blank) and open a module page to see its Markdown
+
+[/hideifembedded]
+
+Then set up your own site:
+
+1. **Download** [Open Course Space](https://getgrav.org/downloads/skeletons?target=_blank#open-course-space-site) from getgrav.org (it's an early preview)
+2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
+3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Course is ready to start your own from
+
+![The Syllabus page of a course open in Admin 2's page editor, with its text below in plain Markdown, such as headings, an italic line and a bulleted list, beside the page's settings](open-course-space-getting-started.webp)
+
+*Editing a course page in Admin 2 – plain Markdown, right in the browser*
+
+**Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
+
+**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/open-courses?target=_blank), as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-courses?target=_blank), and on Grav Premium Helios as an [open reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/open-courses?target=_blank) and a [course hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/open-courses?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&sticky-pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&zoom-images=true&keep-my-place=true&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=:page_facing_up:&target=_blank).
+
+> [!IMPORTANT]
+> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (no database), and Grav extras like definition and objectives boxes are [term name="Shortcode"]shortcodes[/term] that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) turns your course into a Docsify-This site, with no web server needed.
+
+With thanks to the authors of the openly licensed course used as an example, for sharing their work in the open 🙏🏻
+
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/open-courses](https://share-move-reuse.hibbittsdesign.org/open-courses) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank), so you can copy it, adapt it and share it, with credit, or [get it all as one Markdown file](/open-courses/llms-full.txt?target=_blank).
+
+Questions or ideas? [Get in touch](https://hibbittsdesign.org/contact.html) – Paul Hibbitts, [hibbittsdesign.org](https://hibbittsdesign.org/)

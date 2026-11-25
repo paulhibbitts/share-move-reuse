@@ -1,0 +1,42 @@
+---
+title: 'Open Courses'
+subtitle: 'A DIY Path from Plain Markdown or Your LMS'
+cover_image: bicycle-yellow-wall.jpg
+cover_image_alt: 'A bicycle with a front basket leaning against a yellow wall'
+cover_image_layout: small
+metadata:
+    description: 'A short guide to Open Course Space, a free, open-source Grav 2 website starter for open courses – one course or many – plus a free Common Cartridge Converter for your LMS course.'
+    'og:image': 'https://share-move-reuse.hibbittsdesign.org/user/media/og-open-course-space.jpg'
+    'og:image:alt': 'A bicycle with a front basket leaning against a yellow wall'
+    'og:title': 'Open Courses: A DIY Path from Plain Markdown or Your LMS'
+    'og:description': 'A short guide to Open Course Space, a free, open-source Grav 2 website starter for open courses – one course or many – plus a free Common Cartridge Converter for your LMS course.'
+    'og:type': website
+    'twitter:card': summary_large_image
+authors: 'Paul Hibbitts'
+edition: 'First Edition, 2026'
+last_updated: '23-11-2026 00:00'
+section_label: Part
+show_reading_progress: true
+prev_next_position: both
+cards_per_row: '3'
+show_oer_attribution: true
+license: 'CC BY 4.0'
+license_url: 'https://creativecommons.org/licenses/by/4.0/'
+attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@cbarbalis">Chris Barbalis</a> on <a href="https://unsplash.com/photos/female-beach-cruiser-bike-leaning-on-yellow-painted-wall-Lpqg7ypu2B4">Unsplash</a>.'
+published: true
+child_type: section
+keep_my_place: true
+hide_from_menu: true
+side_box: '**Reuse this guide** – it''s CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](/open-courses/llms-full.txt?target=_blank).'
+---
+
+Open course materials are meant to be shared and reused, but they often live inside an LMS – harder to share beyond enrolled students, reuse next term or move elsewhere, even for the instructors who made them.
+
+This short guide introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
+
+===
+
+This guide is built with Open Course Space's twin, Open Publishing Space – both use the same theme and plain [term]Markdown[/term] approach. Want to see it as a course? Here's [this guide in Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-courses/home?target=_blank), with the same content.
+
+> [!TIP]
+> **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.

@@ -33,4 +33,4 @@ See the demo: [Open Course Space](https://demo.hibbittsdesign.org/grav-open-cour
 Try the Admin 2 panel with a course site: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-course-space/admin?target=_blank) (the sign-in details are on its sign-in screen).
 [/hideifembedded]
 
-For more, see the [Open Courses](/open-course-space) guide.
+For more, see the [Open Courses](/open-courses) guide.
