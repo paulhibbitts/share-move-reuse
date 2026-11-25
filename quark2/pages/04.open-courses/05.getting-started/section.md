@@ -8,7 +8,7 @@ side_box: '**No access to a web server?** Publish open courses using [Docsify-Th
 
 All the starters and converters in this guide are **free and open-source**, and you can explore the demos and try the converter with nothing to install:
 
-- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://getgrav.org/downloads/skeletons#open-course-space-site) (an early preview)
+- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://getgrav.org/downloads/skeletons#open-course-space-site) (a preview release)
 - **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)
 - **"No web server? Start with Docsify"** → [Docsify-This](https://docsify-this.net/) or a [Docsify Starter Kit](https://hibbittsdesign.org/docsify-starter-kits.html), then the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready for a full site – see the [Docsify](/docsify) guide
 - **"I want to share a textbook or guide"** → its twin, Open Publishing Space – see the [Open Textbooks and Guides](/open-publishing-space) guide
@@ -26,7 +26,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 Then set up your own site:
 
-1. **Download** [Open Course Space](https://getgrav.org/downloads/skeletons?target=_blank#open-course-space-site) from getgrav.org (it's an early preview)
+1. **Download** [Open Course Space](https://getgrav.org/downloads/skeletons?target=_blank#open-course-space-site) from getgrav.org (it's a preview release)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Course is ready to start your own from
 
