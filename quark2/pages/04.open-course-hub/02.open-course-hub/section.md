@@ -21,7 +21,7 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` t
 > You're reading this page embedded – the same way it would appear inside Canvas, Moodle or Brightspace.
 [/showifembedded]
 
-Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files with any editor or **via Git** – with no database needed, on most PHP web hosts.
+Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files with any editor or **via Git** – with no database needed, on most [term]PHP[/term] web hosts.
 
 **New:** Open Course Space is an early preview, on the same theme as Open Publishing Space – courses from the earlier Open Course Hub and Open MultiCourse Hub [move across](https://github.com/hibbitts-design/grav-skeleton-open-course-space#moving-existing-courses) with few or no changes.
 

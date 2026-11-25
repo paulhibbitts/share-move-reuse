@@ -36,7 +36,7 @@ This short guide introduces Open Course Space, a free, open-source website start
 
 ===
 
-This guide is built with Open Course Space's twin, Open Publishing Space – both use the same theme and plain Markdown approach.
+This guide is built with Open Course Space's twin, Open Publishing Space – both use the same theme and plain [term]Markdown[/term] approach.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.

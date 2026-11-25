@@ -38,4 +38,4 @@ Also in this guide: [Topics](/open-course-hub/topics) · [Resources](/open-cours
 ===
 
 > [!TIP]
-> **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
+> **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a [term]Markdown[/term] version of every page and faster loading pages, still just files with no database.

@@ -21,7 +21,7 @@ Table: What carries over from a Pressbooks book
 | Exercises and other callouts | Carried over as callout boxes |
 | Footnotes | Carried over |
 | H5P activities and videos | H5P activities embedded (an option) or linked; other media linked back to the book |
-| Tables inserted with a Pressbooks shortcode | Shown as text, to replace with a Markdown table |
+| Tables inserted with a Pressbooks [term]shortcode[/term] | Shown as text, to replace with a Markdown table |
 
 ![A chapter of an openly licensed Pressbooks book, beside the same chapter after conversion to an Open Publishing Space guide, with its heading, text and image carried over, and a sidebar with a search box and the book's modules and chapters](pressbooks-to-open-publishing-space.webp)
 
