@@ -25,10 +25,10 @@ Table: What carries over from a Pressbooks book
 | Text, headings, figures and captions | Carried over |
 | Exercises and other callouts | Carried over as callout boxes |
 | Footnotes | Carried over |
-| H5P activities and videos | Links back to the book, ready to embed |
+| H5P activities and videos | H5P activities embedded (an option) or linked; other media linked back to the book |
 | Tables inserted with a Pressbooks shortcode | Shown as text, to replace with a Markdown table |
 
 Example (a raw conversion, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/)
 
-**Readable on GitHub or Codeberg too:** choose Docsify-This or a Starter Kit as the converter's destination, and the book's pages, with working links between them, can be read right in its repository – [see the UDL book on GitHub](https://github.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/blob/main/home.md)
+**No web server needed:** choose Docsify-This or a Starter Kit as the converter's destination, and the book becomes plain Markdown you can adapt, reuse and publish as a website for free – readable right in its GitHub or Codeberg repository, and ready to move to Grav whenever you want – [see the UDL book on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Universal%20Design%20for%20Learning%20%28UDL%29&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=:page_facing_up:) · [on GitHub](https://github.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/blob/main/home.md)
 
