@@ -25,7 +25,7 @@ Table: What carries over from a Pressbooks book
 | Text, headings, figures and captions | Carried over |
 | Exercises and other callouts | Carried over as callout boxes |
 | Footnotes | Carried over |
-| H5P activities and videos | Links back to the book, ready to embed |
+| H5P activities and videos | H5P activities embedded (an option) or linked; other media linked back to the book |
 | Tables inserted with a Pressbooks shortcode | Shown as text, to replace with a Markdown table |
 
 Example (a raw conversion, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/)
