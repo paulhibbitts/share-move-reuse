@@ -18,7 +18,7 @@ Every topic in the guide, from A to Z.
 
 - [Community and help](/grav-2/resources)
 - [Comparison with other tools](/grav-2/modules/why-it-suits-open-education)
-- [Common Cartridge Converter](/grav-2/modules/open-course-hub)
+- [Common Cartridge Converter](/grav-2/modules/open-course-space)
 - [Converters](/grav-2/modules/open-publishing-space)
 
 ## D
@@ -30,7 +30,7 @@ Every topic in the guide, from A to Z.
 ## E
 
 - [Editing](/grav-2/modules/why-it-suits-open-education)
-- [Embedding in an LMS](/grav-2/modules/open-course-hub)
+- [Embedding in an LMS](/grav-2/modules/open-course-space)
 
 ## F
 
@@ -64,7 +64,7 @@ Every topic in the guide, from A to Z.
 
 ## O
 
-- [Open Course Space](/grav-2/modules/open-course-hub)
+- [Open Course Space](/grav-2/modules/open-course-space)
 - [Open Publishing Space](/grav-2/modules/open-publishing-space)
 
 ## P

@@ -18,7 +18,7 @@ Links for going further with Grav 2, the free projects built on it, and Markdown
 ## The Projects
 
 - **Open Publishing Space** – [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site) · [guide](/open-publishing-space)
-- **Open Course Space** – [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://getgrav.org/downloads/skeletons#open-course-space-site) · [guide](/open-course-hub)
+- **Open Course Space** – [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://getgrav.org/downloads/skeletons#open-course-space-site) · [guide](/open-course-space)
 - **Free plugins** – Mermaid, LaTeX Math, Admin2 Site ReadMe and Git Page Link: [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html)
 - **Converters** – [all converters](https://grav-converters.hibbittsdesign.org/)
 - **Every project** – [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html)

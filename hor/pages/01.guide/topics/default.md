@@ -19,7 +19,7 @@ Every topic in the guide, from A to Z.
 ## C
 
 - [Common Cartridge Converter](/guide/from-pressbooks-or-your-lms)
-- [Blog, shared by all courses](/guide/open-course-hub)
+- [Blog, shared by all courses](/guide/open-course-space)
 
 ## D
 
@@ -29,7 +29,7 @@ Every topic in the guide, from A to Z.
 ## E
 
 - [Editing](/guide/which-one-fits-you)
-- [Embedding in an LMS](/guide/open-course-hub)
+- [Embedding in an LMS](/guide/open-course-space)
 
 ## F
 
@@ -56,12 +56,12 @@ Every topic in the guide, from A to Z.
 
 - [Markdown](/guide/why-it-matters)
 - [Math (LaTeX)](/guide/open-publishing-space)
-- [Modules](/guide/open-course-hub)
+- [Modules](/guide/open-course-space)
 
 ## O
 
 - [OER attribution](/guide/open-publishing-space)
-- [Open Course Space](/guide/open-course-hub)
+- [Open Course Space](/guide/open-course-space)
 - [Open Publishing Space](/guide/open-publishing-space)
 
 ## P
@@ -82,7 +82,7 @@ Every topic in the guide, from A to Z.
 - [Screen readers](/guide/accessibility)
 - [Search](/guide/open-publishing-space)
 - [Several guides on one site](/guide/open-publishing-space)
-- [Show/Hide If Embedded](/guide/open-course-hub)
+- [Show/Hide If Embedded](/guide/open-course-space)
 - [Sidebar, hiding](/guide/accessibility)
 - [Skip to content](/guide/accessibility)
 

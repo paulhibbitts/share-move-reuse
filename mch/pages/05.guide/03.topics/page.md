@@ -20,7 +20,7 @@ Every topic in the course, from A to Z.
 ## C
 
 - [Common Cartridge Converter](/guide/modules/from-pressbooks-or-your-lms)
-- [Blog, shared by all courses](/guide/modules/open-course-hub)
+- [Blog, shared by all courses](/guide/modules/open-course-space)
 
 ## D
 
@@ -30,7 +30,7 @@ Every topic in the course, from A to Z.
 ## E
 
 - [Editing](/guide/modules/which-one-fits-you)
-- [Embedding in an LMS](/guide/modules/open-course-hub)
+- [Embedding in an LMS](/guide/modules/open-course-space)
 
 ## F
 
@@ -57,12 +57,12 @@ Every topic in the course, from A to Z.
 
 - [Markdown](/guide/modules/why-it-matters)
 - [Math (LaTeX)](/guide/modules/open-publishing-space)
-- [Modules](/guide/modules/open-course-hub)
+- [Modules](/guide/modules/open-course-space)
 
 ## O
 
 - [OER attribution](/guide/modules/open-publishing-space)
-- [Open Course Space](/guide/modules/open-course-hub)
+- [Open Course Space](/guide/modules/open-course-space)
 - [Open Publishing Space](/guide/modules/open-publishing-space)
 
 ## P
@@ -83,7 +83,7 @@ Every topic in the course, from A to Z.
 - [Screen readers](/guide/modules/accessibility)
 - [Search](/guide/modules/open-publishing-space)
 - [Several guides on one site](/guide/modules/open-publishing-space)
-- [Show/Hide If Embedded](/guide/modules/open-course-hub)
+- [Show/Hide If Embedded](/guide/modules/open-course-space)
 - [Sidebar, hiding](/guide/modules/accessibility)
 - [Skip to content](/guide/modules/accessibility)
 
