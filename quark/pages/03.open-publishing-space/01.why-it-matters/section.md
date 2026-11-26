@@ -15,7 +15,7 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 **Not ready to openly license your work?** Plain Markdown still keeps it yours – it outlasts any one platform, and moves, backs up and adapts easily for years to come.
 
-Best of all for reuse, you (and, with an open licence, anyone) can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages) or GitHub.
+Best of all for reuse, you (and, with an open licence, anyone) can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact. It's ready for [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages) or GitHub.
 
 **See the proof:** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) and [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/?target=_blank) or [on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Universal%20Design%20for%20Learning%20%28UDL%29&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=:page_facing_up:&target=_blank), converted with no revisions – more in [From Pressbooks](/open-publishing-space/from-pressbooks).
 
