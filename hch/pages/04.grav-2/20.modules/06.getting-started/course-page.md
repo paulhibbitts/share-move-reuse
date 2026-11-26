@@ -21,7 +21,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this course, like slides
 3. **Sign in** to [the read-only Admin 2 demo of this site's Open Publishing Space version](https://try.hibbittsdesign.org/read-move-reuse/admin?target=_blank) and open a page – such as this one – to see its Markdown
-4. **Compare** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) with [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions
+4. **Compare** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) with [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/?target=_blank) or [on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Universal%20Design%20for%20Learning%20%28UDL%29&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=:page_facing_up:&target=_blank), converted with no revisions
 
 [/hideifembedded]
 
