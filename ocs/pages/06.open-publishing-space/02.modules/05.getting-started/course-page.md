@@ -9,7 +9,7 @@ All the starters and converters in this course are **free and open-source**, and
 - **"I want to share a textbook or guide"** → Open Publishing Space: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
 - **"I already have a Pressbooks book"** → the [Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready for a full site – see the [Docsify](/docsify) guide
-- **"I want my course content open beyond the LMS"** → its twin, Open Course Space – modules, one course or many, and a converter that brings in your LMS course – see the [Open Courses](/open-courses) course
+- **"I want my course content public, in the LMS and beyond"** → its twin, Open Course Space – modules, one course or many, and a converter that brings in your LMS course – see the [Open Courses](/open-courses) course
 
 [hideifembedded]
 
