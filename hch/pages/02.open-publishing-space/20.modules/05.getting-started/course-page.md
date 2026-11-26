@@ -40,7 +40,7 @@ Then set up your own site:
 > [!IMPORTANT]
 > **Good to know:** this web-first approach keeps things simple, but there's no built-in ebook generation (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) turns your guides into a Docsify-This site, with no web server needed.
 
-With thanks to the authors of the openly licensed book used as an example, for sharing their work in the open 🙏🏻
+With thanks to the authors of the openly licensed books used as examples, for sharing their work in the open 🙏🏻
 
 **Share this guide:** [share-move-reuse.hibbittsdesign.org/open-publishing-space](https://share-move-reuse.hibbittsdesign.org/open-publishing-space) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank), so you can copy it, adapt it and share it, with credit, or [get it all as one Markdown file](/open-publishing-space/llms-full.txt?target=_blank).
 
