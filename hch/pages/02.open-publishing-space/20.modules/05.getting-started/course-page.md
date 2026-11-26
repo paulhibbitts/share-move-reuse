@@ -33,10 +33,6 @@ Then set up your own site:
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Guide is ready to start your own from
 
-![The Why It Matters page open in Admin 2's page editor, with its title above and its text below in plain Markdown, such as bold labels and a definition shortcode, beside the page's settings](open-publishing-space-getting-started.webp)
-
-*Editing a page in Admin 2 – plain Markdown, right in the browser*
-
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
 **See it moved:** this same course also runs, with the same content, as an Open Publishing Space guide on the [Quark 2](https://share-move-reuse.hibbittsdesign.org/open-publishing-space?target=_blank) and [classic Quark](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/open-publishing-space?target=_blank) themes, as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-publishing-space?target=_blank), and on Grav Premium Helios as an [open reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/open-publishing-space?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&sticky-pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&zoom-images=true&keep-my-place=true&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=:page_facing_up:&target=_blank).
