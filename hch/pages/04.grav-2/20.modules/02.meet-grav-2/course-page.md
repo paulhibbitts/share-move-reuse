@@ -41,7 +41,7 @@ What Grav has always had:
 - **Free and open source** (MIT license), with over 15,000 stars on [GitHub](https://github.com/getgrav/grav?target=_blank)
 - **Themes and plugins** for search, feeds, forms and more
 - **Several languages** – multilingual sites built in, and Admin 2 can [translate every string the site shows](https://getgrav.org/blog/grav-2-admin-2-1?target=_blank)
-- **Runs on a standard web host** – no special server setup
+- **Runs on a standard web host** – no special web server setup
 
 And this is Admin 2, where pages like this one are organized, written and previewed:
 

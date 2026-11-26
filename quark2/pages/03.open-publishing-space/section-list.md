@@ -32,7 +32,7 @@ side_box: '**Reuse this guide** – it''s CC BY 4.0, so copy it, adapt it and sh
 
 Open textbooks and guides are meant to be reused, but they often live inside a single platform – harder to adapt or self-host elsewhere, even for their own authors.
 
-This short guide introduces Open Publishing Space, a free, open-source website starter for [term]web-first[/term] open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/?target=_blank) that brings in a [term]Pressbooks[/term] book, or turns it into a Docsify-This site with no server needed.
+This short guide introduces Open Publishing Space, a free, open-source website starter for [term]web-first[/term] open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/?target=_blank) that brings in a [term]Pressbooks[/term] book, or turns it into a Docsify-This site with no web server needed.
 
 ===
 
