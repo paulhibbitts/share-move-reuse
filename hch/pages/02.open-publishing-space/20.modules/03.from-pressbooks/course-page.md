@@ -2,7 +2,7 @@
 title: 'From Pressbooks'
 published: true
 description: 'A free converter turns an existing Pressbooks book into Markdown pages for your site.'
-side_box: "**Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making this book open!*"
+side_box: "**See four converted books** – [in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-books/?target=_blank), with one search box for all of them, and [the same books on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-sites/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Books%20from%20Pressbooks&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-sites/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=:page_facing_up:&target=_blank), with no server needed.\n\n**Compare one yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making these books open!*"
 ---
 
 # From Pressbooks
