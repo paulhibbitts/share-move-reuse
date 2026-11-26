@@ -3,7 +3,7 @@ title: 'Why It Matters'
 published: true
 description: 'Plain Markdown keeps open content portable, under your control, and easy for anyone to reuse.'
 learning_objectives: "- **Share:** see one set of pages work on any device, in an LMS and in print\n- **Move:** keep a guide open to adapt or self-host, with plain Markdown\n- **Reuse:** get the Markdown behind any page, with no source files needed"
-side_box: '**See the Markdown behind this page** – [view it now](/open-publishing-space/modules/why-it-matters.md?target=_blank), or [see it in Docsify-This](https://docsify-this.net/?basePath=https://share-move-reuse.hibbittsdesign.org/open-publishing-space&homepage=why-it-matters.md&target=_blank) – or add `.md` to any page''s address, a Grav 2 feature.'
+side_box: '**See the Markdown behind this page** – [view it now](/open-publishing-space/modules/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 
 # Why It Matters
