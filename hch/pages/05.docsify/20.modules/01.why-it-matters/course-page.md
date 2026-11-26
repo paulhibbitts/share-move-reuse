@@ -18,7 +18,7 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 **How Docsify helps:** your pages stay as Markdown files, hosted anywhere public such as GitHub or Codeberg. Docsify turns them into web pages in the reader's browser – there's no web server to set up, nothing to compile and no software to keep updated. The files still need a home, but a free GitHub repository is enough.
 
-**Share, Move, Reuse:**
+**Share, Move, Reuse:** an open licence gives you the [5Rs](https://opencontent.org/definition/?target=_blank); these three make them practical:
 
 - **Share:** pages work on any device and embed in an LMS
 - **Move:** the same files go to a full Grav site, and back again, with a free [bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank)

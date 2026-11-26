@@ -7,7 +7,7 @@ child_type: section-page
 side_box: '**See the Markdown behind this page** – [view it now](/grav-2/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 
-**Open both ways:** open content is meant to be retained, reused, revised, remixed and redistributed – [the 5Rs](https://opencontent.org/definition/?target=_blank) – by its authors as well as its readers. What if the platform were open too?
+**Open both ways:** an open licence gives you the [5Rs](https://opencontent.org/definition/?target=_blank) – retain, reuse, revise, remix and redistribute – for authors as well as readers, and Share, Move, Reuse is what makes them practical. What if the platform were open too?
 
 [definition title="The DIY answer: plain Markdown"]
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page on a free site you control.

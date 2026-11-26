@@ -8,7 +8,7 @@ side_box: '**See the Markdown behind this page** – [view it now](/open-courses
 
 # Why It Matters
 
-**Open beyond the LMS:** course pages outside the LMS can be read by anyone, linked from any course, reused next term and shared with colleagues. What if every page stayed open and portable?
+**Open beyond the LMS:** course pages outside the LMS can be read by anyone, linked from any course, reused next term and shared with colleagues. An open licence gives you the [5Rs](https://opencontent.org/definition/?target=_blank); Share, Move, Reuse is what makes them practical.
 
 [definition title="The DIY answer: plain Markdown"]
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page in Markdown, on a free site you control.
