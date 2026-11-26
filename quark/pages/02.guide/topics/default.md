@@ -12,7 +12,6 @@ Every topic in the guide, from A to Z.
 
 - [Accessibility](/guide/accessibility)
 - [Admin 2](/guide/which-one-fits-you)
-- [Admin2 Site ReadMe plugin](/guide/open-publishing-space)
 - [Arrow keys](/guide/accessibility)
 
 ## B

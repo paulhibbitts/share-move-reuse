@@ -15,7 +15,6 @@ Every topic in the course, from A to Z.
 
 - [Accessibility](/open-courses/modules/accessibility-and-privacy)
 - [Admin 2](/open-courses/modules/open-course-space)
-- [Admin2 Site ReadMe plugin](/open-courses/modules/open-course-space)
 
 ## C
 
@@ -38,7 +37,7 @@ Every topic in the course, from A to Z.
 
 ## G
 
-- [Grav Docsify Bridge](/open-courses/modules/from-your-lms)
+- [Grav Docsify Bridge](/open-courses/modules/getting-started)
 
 ## H
 

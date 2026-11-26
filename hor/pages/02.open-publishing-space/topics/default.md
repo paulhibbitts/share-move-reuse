@@ -9,7 +9,6 @@ Every topic in the guide, from A to Z.
 
 - [Accessibility](/open-publishing-space/accessibility)
 - [Admin 2](/open-publishing-space/getting-started)
-- [Admin2 Site ReadMe plugin](/open-publishing-space/open-publishing-space)
 - [Arrow keys](/open-publishing-space/accessibility)
 
 ## B
@@ -32,7 +31,7 @@ Every topic in the guide, from A to Z.
 
 ## G
 
-- [Grav Docsify Bridge](/open-publishing-space/from-pressbooks)
+- [Grav Docsify Bridge](/open-publishing-space/getting-started)
 
 ## H
 

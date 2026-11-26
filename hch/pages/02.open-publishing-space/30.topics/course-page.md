@@ -15,7 +15,6 @@ Every topic in the course, from A to Z.
 
 - [Accessibility](/open-publishing-space/modules/accessibility)
 - [Admin 2](/open-publishing-space/modules/getting-started)
-- [Admin2 Site ReadMe plugin](/open-publishing-space/modules/open-publishing-space)
 - [Arrow keys](/open-publishing-space/modules/accessibility)
 
 ## B
@@ -38,7 +37,7 @@ Every topic in the course, from A to Z.
 
 ## G
 
-- [Grav Docsify Bridge](/open-publishing-space/modules/from-pressbooks)
+- [Grav Docsify Bridge](/open-publishing-space/modules/getting-started)
 
 ## H
 

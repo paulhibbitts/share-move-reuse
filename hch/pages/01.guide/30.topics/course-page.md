@@ -15,7 +15,6 @@ Every topic in the course, from A to Z.
 
 - [Accessibility](/guide/modules/accessibility)
 - [Admin 2](/guide/modules/which-one-fits-you)
-- [Admin2 Site ReadMe plugin](/guide/modules/open-publishing-space)
 - [Arrow keys](/guide/modules/accessibility)
 
 ## B
