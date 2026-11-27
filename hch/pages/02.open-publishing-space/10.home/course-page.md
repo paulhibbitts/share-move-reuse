@@ -11,7 +11,7 @@ navigation:
 
 *Paul Hibbitts*
 
-Open textbooks and guides are meant to be reused, but the platform they were made in often makes them harder to adapt or move elsewhere – even for their own authors.
+Open textbooks and guides are meant to be reused, but by default their content stays within the platform it was made in – harder to adapt or move elsewhere, even for its own authors.
 
 This short course introduces Open Publishing Space, a free, open-source website starter for web-first open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/?target=_blank) that brings in a Pressbooks book, or turns it into a Docsify-This site with no web server needed.
 
