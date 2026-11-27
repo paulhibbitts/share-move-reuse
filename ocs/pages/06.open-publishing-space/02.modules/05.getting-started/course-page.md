@@ -7,7 +7,7 @@ side_box: '**No access to a web server?** Publish open guides using [Docsify-Thi
 All the starters and converters in this course are **free and open-source**, and you can explore the demo and try the converter with nothing to install:
 
 - **"I want to share a textbook or guide"** → Open Publishing Space: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
-- **"I already have a Pressbooks book"** → the [Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)
+- **"I already have a Pressbooks book"** → the [Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/) – for Open Publishing Space or, with no web server, Docsify-This
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready for a full site – see the [Docsify](/docsify) guide
 - **"I want my course content public, as well as in the LMS"** → its twin, Open Course Space – modules, one course or many, a converter that brings in your LMS course, and plain Markdown files you can keep on your own computer – see the [Open Courses](/open-courses) course
 
