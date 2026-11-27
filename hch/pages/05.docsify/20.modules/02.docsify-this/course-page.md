@@ -32,7 +32,7 @@ Named a finalist in the Open Infrastructure category of the 2024 Open Education 
 - **Every page as Markdown,** ready to reuse or move to Grav (Part 4)
 
 [hideifembedded]
-[Books from Pressbooks on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-sites/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Books%20from%20Pressbooks&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-sites/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=%3Apage_facing_up%3A#/)
+[Books from Pressbooks on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-books-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Books%20from%20Pressbooks&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-books-site/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=%3Apage_facing_up%3A#/)
 [/hideifembedded]
 
 **Not yet:** search across books and editing in the browser – Part 4 covers when a Grav site fits better. (Neither Docsify nor Grav makes a whole-book PDF or ebook; pages print cleanly from the browser.)
