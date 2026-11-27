@@ -14,6 +14,7 @@ A free, open-source web app that turns online Markdown files into styled, respon
 - **Embeds almost anywhere:** Canvas, Moodle, Brightspace, WordPress and more
 - **Rich content:** H5P activities, LaTeX math and Mermaid diagrams
 - **Edit in place:** change the Markdown file, and the page updates shortly after
+- **Readable on GitHub or Codeberg too:** the same files work as linked pages right in their repository – [see this guide on GitHub](https://github.com/paulhibbitts/docsify-this-share-move-reuse-site/tree/main/docsify?target=_blank#readme)
 
 Named a finalist in the Open Infrastructure category of the 2024 Open Education Awards for Excellence.
 
