@@ -40,4 +40,4 @@ Also in this guide: [Topics](/open-publishing-space/topics) · [Resources](/open
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a [term]Markdown[/term] version of every page and faster loading pages, still just files with no database.
 
-Prepared for the ETUG Fall Workshop 2026.
+Presented at the ETUG Fall Workshop 2026.

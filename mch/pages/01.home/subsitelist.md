@@ -28,4 +28,4 @@ These courses show Markdown portability at work: the same files also run with my
 
 **The tools behind it:** converters bring your existing books and courses in, and the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) moves your guides and courses between Docsify and Grav, both ways – the same Markdown, read, moved and reused.
 
-This site is the course version of [Share, Move, Reuse](https://share-move-reuse.hibbittsdesign.org/?target=_blank), built with Open MultiCourse Hub from the same Markdown. *Open Textbooks and Guides was prepared for the ETUG Fall Workshop 2026.*
+This site is the course version of [Share, Move, Reuse](https://share-move-reuse.hibbittsdesign.org/?target=_blank), built with Open MultiCourse Hub from the same Markdown. *Open Textbooks and Guides was presented at the ETUG Fall Workshop 2026.*

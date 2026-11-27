@@ -24,4 +24,4 @@ This short course introduces Open Publishing Space, a free, open-source website 
 
 They're licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy them, adapt them and share them, with credit. Cover photo by [Michaela St](https://unsplash.com/@michaela_st?target=_blank) on [Unsplash](https://unsplash.com/photos/an-open-book-flying-in-the-air-L23ydbfeO2s?target=_blank).
 
-*Prepared for the ETUG Fall Workshop 2026.*
+*Presented at the ETUG Fall Workshop 2026.*

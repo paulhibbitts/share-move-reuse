@@ -20,4 +20,4 @@ This version is a course site, built with Open Course Space, so the course navba
 
 [Start with Module 1 – Why It Matters](/open-publishing-space/modules/why-it-matters)
 
-*Prepared for the ETUG Fall Workshop 2026.*
+*Presented at the ETUG Fall Workshop 2026.*
